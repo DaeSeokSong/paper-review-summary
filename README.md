@@ -18,6 +18,16 @@
 <br>
 <br>
 
+## The Forward-Forward Algorithm
+> #### [The Forward-Forward Algorithm: Some Preliminary Investigations](https://arxiv.org/pdf/2212.13345.pdf)
+>
+> * [[딥러닝] The Forward-Forward Algorithm: Some Preliminary Investigations (FF)](https://velog.io/@nochesita/%EB%94%A5%EB%9F%AC%EB%8B%9D-The-Forward-Forward-Algorithm-Some-Preliminary-Investigations)
+>   * 제프리 힌튼이라는 AI계의 대부가 쓴 글을 쉽고 자세하게, 디테일은 빼먹지 않고 이해하기 편하게 요약한 글
+>   * 논문을 읽기 전에 한 번 해당 블로그 글을 읽고 논문을 읽으면 많은 도움이 될 거 같다.
+
+<br>
+<br>
+
 ## K-Net
 > #### [K-Net: Towards Unified Image Segmentation](https://arxiv.org/pdf/2106.14855.pdf)
 >
