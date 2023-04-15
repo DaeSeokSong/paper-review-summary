@@ -15,6 +15,9 @@
 >     * 디테일하게 정리가 되어있어서 PIDNet을 처음 접할 때 보기 좋은 블로그 정리글
 >     * 간단한 정리글이 아닌, 길게 쓰여진 해설글이기에 간단 요약을 원하시는 분들은 다른 글을 추천
 
+<br>
+<br>
+
 ## K-Net
 > #### [K-Net: Towards Unified Image Segmentation](https://arxiv.org/pdf/2106.14855.pdf)
 >
