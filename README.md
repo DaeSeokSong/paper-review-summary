@@ -40,7 +40,7 @@
 <br>
 <br>
 
-## cs-Flow
+## CS-Flow
 > ### [Fully Convolutional Cross-Scale-Flows for Image-based Defect Detection](https://arxiv.org/pdf/2110.02855.pdf)
 >
 > * [딥러닝 모델 CS-Flow의 구조와 특징](https://ryeowon.github.io/posts/cs_flow_architecture/)
