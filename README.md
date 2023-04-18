@@ -36,3 +36,13 @@
 > * [[작성중...] K-Net: Towards Unified Image Segmentation](https://ambitious-posong.tistory.com/138)
 >   * 가볍고 간단하게 설명하는 글로써, 자세한 이해보다는 K-Net이란 이러한 개념이구나 싶은 정도로 이해할 수 있는 글
 >   * 자세한 설명은 논문을 읽어보아야 알 수 있다.
+
+<br>
+<br>
+
+## cs-Flow
+> ### [Fully Convolutional Cross-Scale-Flows for Image-based Defect Detection](https://arxiv.org/pdf/2110.02855.pdf)
+>
+> * [딥러닝 모델 CS-Flow의 구조와 특징](https://ryeowon.github.io/posts/cs_flow_architecture/)
+>   * 전체적인 작동방식 및 개념을 짧게 소개하는 글로써, 해당 글만으로도 대략적인 이해가 가능하다.
+>   * 대략적인 이해가 가능한 것이지, 자세한 이해는 어려울 수 있기에 자세한 이해를 원한다면 논문을 같이 읽는 걸 추천한다.
