@@ -50,7 +50,7 @@
 <br>
 <br>
 
-## CS-Flow
+## PIM
 > ### [A Novel Plug-in Module for Fine-Grained Visual
 Classification](https://arxiv.org/pdf/2202.03822.pdf2)
 >
