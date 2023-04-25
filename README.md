@@ -46,3 +46,14 @@
 > * [딥러닝 모델 CS-Flow의 구조와 특징](https://ryeowon.github.io/posts/cs_flow_architecture/)
 >   * 전체적인 작동방식 및 개념을 짧게 소개하는 글로써, 해당 글만으로도 대략적인 이해가 가능하다.
 >   * 대략적인 이해가 가능한 것이지, 자세한 이해는 어려울 수 있기에 자세한 이해를 원한다면 논문을 같이 읽는 걸 추천한다.
+
+<br>
+<br>
+
+## CS-Flow
+> ### [A Novel Plug-in Module for Fine-Grained Visual
+Classification](https://arxiv.org/pdf/2202.03822.pdf2)
+>
+> * PIM (Plug-In Module) 모델로써, 기존에 있는 다양한 Backbone (Swin, ViT, EfficientNet, ResNet)에 붙어 Fine-Grained 한 성능의 향상을 가져온 모델
+> * [[논문 리뷰] PIM(Plug in Module) [ 2022 ]](https://kalelpark.tistory.com/18)
+>   * PIM을 공부하면서 헷갈리는 내용이 나올 때 도움이 됐던 글이다. 논문과 같이 읽는 걸 추천한다.
