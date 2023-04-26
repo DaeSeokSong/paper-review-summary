@@ -39,7 +39,7 @@
 
 <br>
 <br>
-
+https://ballentain.tistory.com/80
 ## CS-Flow
 > ### [Fully Convolutional Cross-Scale-Flows for Image-based Defect Detection](https://arxiv.org/pdf/2110.02855.pdf)
 >
@@ -57,3 +57,19 @@ Classification](https://arxiv.org/pdf/2202.03822.pdf2)
 > * PIM (Plug-In Module) 모델로써, 기존에 있는 다양한 Backbone (Swin, ViT, EfficientNet, ResNet)에 붙어 Fine-Grained 한 성능의 향상을 가져온 모델
 > * [[논문 리뷰] PIM(Plug in Module) [ 2022 ]](https://kalelpark.tistory.com/18)
 >   * PIM을 공부하면서 헷갈리는 내용이 나올 때 도움이 됐던 글이다. 논문과 같이 읽는 걸 추천한다.
+
+<br>
+<br>
+<br>
+<br>
+<hr>
+<br>
+<br>
+<br>
+<br>
+
+# 그 외 지식
+
+## Dice Coefficient(Score) vs IoU
+> * [헷갈리는 Dice와 IoU 개념, 내가 정리해 봄ㅋ](https://ballentain.tistory.com/80)
+>   * Dice Score와 IoU의 차이를 공식으로 암기하며 지내고 있다가 해당 블로그 글은 본 뒤에 쉽게 이해했다.
