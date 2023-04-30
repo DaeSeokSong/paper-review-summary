@@ -39,7 +39,7 @@
 
 <br>
 <br>
-https://ballentain.tistory.com/80
+
 ## CS-Flow
 > ### [Fully Convolutional Cross-Scale-Flows for Image-based Defect Detection](https://arxiv.org/pdf/2110.02855.pdf)
 >
