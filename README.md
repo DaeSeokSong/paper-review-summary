@@ -51,8 +51,7 @@
 <br>
 
 ## PIM
-> ### [A Novel Plug-in Module for Fine-Grained Visual
-Classification](https://arxiv.org/pdf/2202.03822.pdf2)
+> ### [A Novel Plug-in Module for Fine-Grained Visual Classification](https://arxiv.org/pdf/2202.03822.pdf2)
 >
 > * PIM (Plug-In Module) 모델로써, 기존에 있는 다양한 Backbone (Swin, ViT, EfficientNet, ResNet)에 붙어 Fine-Grained 한 성능의 향상을 가져온 모델
 > * [[논문 리뷰] PIM(Plug in Module) [ 2022 ]](https://kalelpark.tistory.com/18)
